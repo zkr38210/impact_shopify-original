@@ -9,7 +9,8 @@
  */
 {
   "current": {
-    "section_vertical_spacing": "medium",
+    "section_vertical_spacing": "xsmall",
+    "section_boxed_horizontal_spacing": "xsmall",
     "button_border_radius": 60,
     "input_border_radius": 8,
     "block_border_radius": 24,
