@@ -346,6 +346,7 @@
         "image_rDYicn": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-23T183937.373.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -356,7 +357,7 @@
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#000000",
+            "background": "#00a6d0",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
