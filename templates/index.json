@@ -45,38 +45,31 @@
         "overlay_opacity": 10
       }
     },
-    "logo_list_VxhXBR": {
+    "logo_list_LiTHbc": {
       "type": "logo-list",
       "blocks": {
-        "logo_wQG8ar": {
+        "logo_LMrFDr": {
           "type": "logo",
           "settings": {
             "logo_width": 120,
             "link": ""
           }
         },
-        "logo_fBmzgc": {
+        "logo_4JFyCC": {
           "type": "logo",
           "settings": {
             "logo_width": 120,
             "link": ""
           }
         },
-        "logo_8HMCb6": {
+        "logo_RrmLtp": {
           "type": "logo",
           "settings": {
             "logo_width": 120,
             "link": ""
           }
         },
-        "logo_NNQrxX": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_LPEaTe": {
+        "logo_WLdeH3": {
           "type": "logo",
           "settings": {
             "logo_width": 120,
@@ -85,11 +78,10 @@
         }
       },
       "block_order": [
-        "logo_wQG8ar",
-        "logo_fBmzgc",
-        "logo_8HMCb6",
-        "logo_NNQrxX",
-        "logo_LPEaTe"
+        "logo_LMrFDr",
+        "logo_4JFyCC",
+        "logo_RrmLtp",
+        "logo_WLdeH3"
       ],
       "name": "Logo list",
       "settings": {
@@ -97,8 +89,8 @@
         "stack_mobile": true,
         "title": "Logo list",
         "content": "",
-        "text_alignment": "start",
-        "items_per_row": 5,
+        "text_alignment": "center",
+        "items_per_row": 4,
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -112,7 +104,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "",
+        "collection": "frontpage",
         "products": [],
         "full_width": true,
         "stack_products": true,
@@ -124,7 +116,7 @@
         "title": "Featured collection",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -151,9 +143,9 @@
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#000000",
+            "background": "#ffffff",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#000000",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -173,7 +165,7 @@
   },
   "order": [
     "image_with_text_overlay_87jxP6",
-    "logo_list_VxhXBR",
+    "logo_list_LiTHbc",
     "featured_collection_F7BkVN",
     "media_with_text_qPEECG"
   ]
