@@ -286,6 +286,7 @@
         "image_KMqBtb": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/dr-sophie_1.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -321,6 +322,7 @@
         "image_raef38": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/LP-ALVRED_PRO_PDP_SHPFY_Main04_1.jpg",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
