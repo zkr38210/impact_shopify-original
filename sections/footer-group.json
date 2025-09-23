@@ -93,7 +93,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "title": "Suscríbete para recibir nuevas historias y ofertas personalizadas",
             "content": ""
           }
         },
@@ -108,8 +108,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "Contáctanos",
+            "content": "<p><strong>Atención al cliente:</strong><br/>contacto@elanaya.eu</p><p><strong>Horario:</strong> De lunes a viernes de 9:00 a 12:00 y de 13:00 a 18:00 / Sábado y domingo de 10:00 a 12:00</p>",
             "enable_follow_on_shop": true
           }
         }
