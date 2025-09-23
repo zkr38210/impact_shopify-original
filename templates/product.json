@@ -426,8 +426,8 @@
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
+            "button_background": "#ffffff",
+            "button_text_color": "#0fa5db"
           }
         }
       },
