@@ -59,21 +59,24 @@
         "logo_4JFyCC": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/8_2.jpg",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_RrmLtp": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/logo-clara.svg",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_WLdeH3": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/logo.2856426.svg",
+            "logo_width": 300,
             "link": ""
           }
         }
