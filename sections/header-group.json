@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Pagos 100 % seguros con PayPal",
             "url": ""
           }
         }
@@ -28,7 +28,7 @@
       "settings": {
         "enable_sticky": false,
         "autoplay": false,
-        "cycle_speed": 6,
+        "cycle_speed": 5,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
