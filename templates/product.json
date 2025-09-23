@@ -12,10 +12,10 @@
     "image_with_text_overlay_dCEDBB": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_n6WVgA": {
-          "type": "subheading",
+        "richtext_y7LFUL": {
+          "type": "richtext",
           "settings": {
-            "text": "Subheading"
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
         "heading_3cPtwn": {
@@ -24,18 +24,11 @@
             "text": "Image with text overlay",
             "heading_tag": "h1"
           }
-        },
-        "richtext_y7LFUL": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
         }
       },
       "block_order": [
-        "subheading_n6WVgA",
-        "heading_3cPtwn",
-        "richtext_y7LFUL"
+        "richtext_y7LFUL",
+        "heading_3cPtwn"
       ],
       "name": "Image with text overlay",
       "settings": {
@@ -45,11 +38,11 @@
         "image_size": "auto",
         "image": "shopify://shop_images/Design_sans_titre_-_2025-09-15T175023.461.png",
         "mobile_image": "shopify://shop_images/Design_sans_titre_14.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
+        "mobile_text_position": "place-self-start text-start",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
+        "text_color": "#000000",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 10
       }
     },
     "logo_list_m4jHTa": {
@@ -63,13 +56,6 @@
           }
         },
         "logo_weXJHw": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_9y4c8b": {
           "type": "logo",
           "settings": {
             "logo_width": 120,
@@ -94,7 +80,6 @@
       "block_order": [
         "logo_Ac84Vk",
         "logo_weXJHw",
-        "logo_9y4c8b",
         "logo_xPNLCi",
         "logo_fB7wk8"
       ],
@@ -104,7 +89,7 @@
         "stack_mobile": true,
         "title": "Logo list",
         "content": "",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "items_per_row": 5,
         "background": "",
         "background_gradient": "",
