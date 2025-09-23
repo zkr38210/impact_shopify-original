@@ -15,20 +15,32 @@
         "richtext_y7LFUL": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>★★★★★ Valorado 4,9/5 por más de 100.000 clientas satisfechas.</p>"
           }
         },
         "heading_3cPtwn": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
+            "text": "Di adiós a las estrías, al abdomen flácido y a los kilos de más — ¡y dale la bienvenida a la nueva versión segura de ti misma!",
+            "heading_tag": "h3"
+          }
+        },
+        "button_6RKAP6": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "base",
+            "text": "Comprar ahora",
+            "url": "shopify://products/elanaya®-lumenolift",
+            "background": "",
+            "text_color": ""
           }
         }
       },
       "block_order": [
         "richtext_y7LFUL",
-        "heading_3cPtwn"
+        "heading_3cPtwn",
+        "button_6RKAP6"
       ],
       "name": "Image with text overlay",
       "settings": {
