@@ -165,14 +165,14 @@
       ],
       "name": "Multi-column",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "start",
         "subheading": "",
         "title": "Featured content",
         "content": "",
-        "background": "",
+        "background": "#f2f2f2",
         "background_gradient": "",
         "text_color": ""
       }
