@@ -12,10 +12,10 @@
     "image_with_text_overlay_87jxP6": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_3mXHDQ": {
-          "type": "subheading",
+        "richtext_gMa3Vm": {
+          "type": "richtext",
           "settings": {
-            "text": "Subheading"
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
         "heading_nETBWA": {
@@ -24,18 +24,11 @@
             "text": "Image with text overlay",
             "heading_tag": "h1"
           }
-        },
-        "richtext_gMa3Vm": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
         }
       },
       "block_order": [
-        "subheading_3mXHDQ",
-        "heading_nETBWA",
-        "richtext_gMa3Vm"
+        "richtext_gMa3Vm",
+        "heading_nETBWA"
       ],
       "name": "Image with text overlay",
       "settings": {
@@ -47,9 +40,9 @@
         "mobile_image": "shopify://shop_images/Design_sans_titre_14.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
+        "text_color": "#000000",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 10
       }
     },
     "logo_list_VxhXBR": {
