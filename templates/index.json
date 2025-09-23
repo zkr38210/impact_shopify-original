@@ -38,8 +38,8 @@
         "image_size": "auto",
         "image": "shopify://shop_images/Design_sans_titre_-_2025-09-15T175023.461.png",
         "mobile_image": "shopify://shop_images/Design_sans_titre_14.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "mobile_text_position": "place-self-start text-start",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "text_color": "#000000",
         "overlay_color": "#000000",
         "overlay_opacity": 10
