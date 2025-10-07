@@ -63,6 +63,7 @@
         "logo_Ac84Vk": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -70,6 +71,7 @@
         "logo_weXJHw": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Womenshealthlogo_svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -77,6 +79,7 @@
         "logo_xPNLCi": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Design_sans_titre-5.png",
             "logo_width": 300,
             "link": ""
           }
@@ -84,6 +87,7 @@
         "logo_fB7wk8": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/marie_claire.png",
             "logo_width": 300,
             "link": ""
           }
@@ -112,23 +116,6 @@
         "logo_item_border": ""
       }
     },
-    "image_with_text_overlay_QctATJ": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/1.png",
-        "mobile_image": "shopify://shop_images/1.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "image_with_text_overlay_eFcYXr": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -137,6 +124,24 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Elanaya_Customer_Testimonial-2.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_grAENU": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/2-2.png",
+        "mobile_image": "shopify://shop_images/2-2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -421,8 +426,8 @@
   "order": [
     "image_with_text_overlay_dCEDBB",
     "logo_list_m4jHTa",
-    "image_with_text_overlay_QctATJ",
     "image_with_text_overlay_eFcYXr",
+    "image_with_text_overlay_grAENU",
     "multi_column_BEij4W",
     "custom_liquid_k6akxU",
     "main",
