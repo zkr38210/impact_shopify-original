@@ -239,6 +239,21 @@
             "heading_tag": "h3"
           }
         },
+        "loox_reviews_loox_rating_VaYGHt": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "contentSize": 16,
+            "pattern": "",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
+        },
         "kaching_bundles_app_block_DPPQ4C": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -290,6 +305,7 @@
       "block_order": [
         "liquid_zG8KFU",
         "title",
+        "loox_reviews_loox_rating_VaYGHt",
         "kaching_bundles_app_block_DPPQ4C",
         "liquid_AbJTiQ",
         "liquid_69aQ7t",
