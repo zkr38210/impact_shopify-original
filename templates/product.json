@@ -48,7 +48,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Design_sans_titre_-_2025-09-15T175023.461.png",
+        "image": "shopify://shop_images/Design_sans_titre_14.png",
         "mobile_image": "shopify://shop_images/Design_sans_titre_14.png",
         "mobile_text_position": "place-self-start text-start",
         "desktop_text_position": "sm:place-self-center-start sm:text-start",
@@ -63,7 +63,6 @@
         "logo_Ac84Vk": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-header.svg",
             "logo_width": 300,
             "link": ""
           }
@@ -71,7 +70,6 @@
         "logo_weXJHw": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/8_2.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -79,7 +77,6 @@
         "logo_xPNLCi": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-clara.svg",
             "logo_width": 300,
             "link": ""
           }
@@ -87,7 +84,6 @@
         "logo_fB7wk8": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo.2856426.svg",
             "logo_width": 300,
             "link": ""
           }
@@ -141,8 +137,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/2.png",
-        "mobile_image": "shopify://shop_images/2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -156,7 +150,6 @@
         "item_EfB4Wt": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre-12.png",
             "column_size": "3",
             "title": "Julia R. Cliente verificada ✓",
             "heading_tag": "h4",
@@ -169,7 +162,6 @@
         "item_btU3wM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2_4d9ee5a0-1ab9-4a35-a3c1-5575ca6952ec.png",
             "column_size": "3",
             "title": "Sofía N. Cliente verificada ✓",
             "heading_tag": "h4",
@@ -182,7 +174,6 @@
         "item_hFKdjR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1_621ddf0b-a227-4748-ad71-dae155869738.png",
             "column_size": "3",
             "title": "Lucía T. Cliente verificada ✓",
             "heading_tag": "h4",
@@ -240,27 +231,6 @@
             "heading_tag": "h3"
           }
         },
-        "loox_reviews_loox_rating_jjrMTM": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "contentSize": 13,
-            "pattern": "4,8/5 Excelente – Más de [count] opiniones",
-            "hideText": false,
-            "alignment": "",
-            "layout": "",
-            "textColor": "",
-            "starColor": "",
-            "showAllReviews": false,
-            "looxOpenFloatingWidget": false,
-            "emptyRatingWidget": false
-          }
-        },
-        "kaching_bundles_app_block_4rM9U4": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
         "liquid_AbJTiQ": {
           "type": "liquid",
           "settings": {
@@ -306,8 +276,6 @@
       "block_order": [
         "liquid_zG8KFU",
         "title",
-        "loox_reviews_loox_rating_jjrMTM",
-        "kaching_bundles_app_block_4rM9U4",
         "liquid_AbJTiQ",
         "liquid_69aQ7t",
         "liquid_kyzVhx",
@@ -339,7 +307,6 @@
         "image_KMqBtb": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/dr-sophie_1.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -375,7 +342,6 @@
         "image_raef38": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/LP-ALVRED_PRO_PDP_SHPFY_Main04_1.jpg",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center-start text-start",
@@ -411,7 +377,6 @@
         "image_rDYicn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-23T183937.373.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -443,22 +408,6 @@
     },
     "1758650227db56487c": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_nqGCVE": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_nqGCVE"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
