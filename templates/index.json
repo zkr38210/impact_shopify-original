@@ -62,6 +62,7 @@
         "logo_LMrFDr": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Womenshealthlogo_svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -69,6 +70,7 @@
         "logo_4JFyCC": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Design_sans_titre-5.png",
             "logo_width": 300,
             "link": ""
           }
@@ -76,6 +78,7 @@
         "logo_RrmLtp": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -83,6 +86,7 @@
         "logo_WLdeH3": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/marie_claire.png",
             "logo_width": 300,
             "link": ""
           }
