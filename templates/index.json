@@ -257,7 +257,7 @@
       "settings": {
         "full_width": false,
         "alternate_media_position": false,
-        "spacing": "small"
+        "spacing": "none"
       }
     }
   },
