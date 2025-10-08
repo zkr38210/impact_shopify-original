@@ -556,7 +556,7 @@
         "image_rDYicn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_-_2025-09-23T183937.373.png",
+            "image": "shopify://shop_images/ChatGPT_Image_8_oct._2025_23_22_59.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -567,12 +567,12 @@
             "content": "<p>Creemos en los beneficios de nuestro <strong>Cinturón de Luminoterapia</strong>, y queremos que tú también los compruebes.</p><p>Por eso te ofrecemos una <strong>garantía 100% satisfecha o reembolsada</strong>.</p><p>Pruébalo durante <strong>90 días con total tranquilidad</strong>: si no estás completamente satisfecha, te devolvemos el <strong>importe íntegro</strong>, sin ninguna condición.</p><p>Con nosotros, tu <strong>bienestar es nuestra máxima prioridad</strong>.</p>",
             "link_text": "Comprar ahora",
             "link_url": "shopify://products/elanaya®-lumenolift",
-            "background": "#00a6d0",
+            "background": "#e52d2e",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
-            "button_background": "#ffffff",
-            "button_text_color": "#0fa5db"
+            "button_background": "#000000",
+            "button_text_color": "#ffffff"
           }
         }
       },
