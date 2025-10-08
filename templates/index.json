@@ -139,54 +139,6 @@
         "lazy": false
       }
     },
-    "image_with_text_overlay_87jxP6": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "richtext_gMa3Vm": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>★★★★★ Valorado 4,9/5 por más de 100.000 clientas satisfechas.</p>"
-          }
-        },
-        "heading_nETBWA": {
-          "type": "heading",
-          "settings": {
-            "text": "Di adiós a las estrías, al abdomen flácido y a los kilos de más — ¡y dale la bienvenida a la nueva versión segura de ti misma!",
-            "heading_tag": "h3"
-          }
-        },
-        "button_tkJeft": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "base",
-            "text": "Comprar ahora",
-            "url": "shopify://products/elanaya®-lumenolift",
-            "background": "",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "richtext_gMa3Vm",
-        "heading_nETBWA",
-        "button_tkJeft"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Design_sans_titre_-_2025-10-08T204516.143.png",
-        "mobile_image": "shopify://shop_images/Design_sans_titre_-_2025-10-08T204359.939.png",
-        "mobile_text_position": "place-self-start text-start",
-        "desktop_text_position": "sm:place-self-center-start sm:text-start",
-        "text_color": "#000000",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "logo_list_LiTHbc": {
       "type": "logo-list",
       "blocks": {
@@ -311,7 +263,6 @@
   },
   "order": [
     "ss_hero_24_9ENatP",
-    "image_with_text_overlay_87jxP6",
     "logo_list_LiTHbc",
     "featured_collection_F7BkVN",
     "media_with_text_qPEECG"
