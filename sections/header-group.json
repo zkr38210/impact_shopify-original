@@ -20,17 +20,33 @@
             "text": "💳 Pagos 100 % seguros con PayPal. 🔒",
             "url": ""
           }
+        },
+        "message_PbAG9m": {
+          "type": "message",
+          "settings": {
+            "text": "🛡️ 90 días sin riesgo",
+            "url": ""
+          }
+        },
+        "message_DVaCmw": {
+          "type": "message",
+          "settings": {
+            "text": "✈️ Envío exprés",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_PbAG9m",
+        "message_DVaCmw"
       ],
       "settings": {
-        "enable_sticky": false,
+        "enable_sticky": true,
         "autoplay": false,
-        "cycle_speed": 5,
+        "cycle_speed": 4,
         "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#000000",
         "background_gradient": "",
