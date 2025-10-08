@@ -50,7 +50,7 @@
             "heading": "<p>Revela <strong>la mejor</strong> versión de tu cuerpo.</p>",
             "heading_custom": false,
             "heading_font": "josefin_sans_n4",
-            "heading_size": 50,
+            "heading_size": 40,
             "heading_size_mobile": 34,
             "heading_height": 130,
             "heading_mt": 10,
@@ -62,15 +62,15 @@
         "text_WR6kqi": {
           "type": "text",
           "settings": {
-            "text": "<p>Tell your brand's story through images</p>",
-            "text_custom": false,
-            "text_font": "josefin_sans_n4",
-            "text_size": 18,
+            "text": "<p>Adiós a las estrías, al vientre flácido y a los kilos rebeldes.</p>",
+            "text_custom": true,
+            "text_font": "dm_sans_n6",
+            "text_size": 25,
             "text_size_mobile": 18,
             "text_height": 150,
             "text_mt": 20,
             "text_mt_mobile": 20,
-            "text_color": "#000000"
+            "text_color": "#212326"
           }
         },
         "button_J9WxTb": {
