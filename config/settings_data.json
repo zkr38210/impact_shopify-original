@@ -36,7 +36,7 @@
     "heading_apparition": "split_fade",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
-    "cart_type": "drawer",
+    "cart_type": "page",
     "cart_icon": "shopping_cart",
     "favicon": "shopify://shop_images/Design_sans_titre_-_2025-08-30T004816.711.png",
     "checkout_accent_color": "#f0c417",
