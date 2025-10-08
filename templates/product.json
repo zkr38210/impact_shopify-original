@@ -9,52 +9,134 @@
  */
 {
   "sections": {
-    "image_with_text_overlay_dCEDBB": {
-      "type": "image-with-text-overlay",
+    "ss_hero_24_TrW9Y8": {
+      "type": "ss-hero-24",
       "blocks": {
-        "richtext_y7LFUL": {
-          "type": "richtext",
+        "review_piqnXw": {
+          "type": "review",
           "settings": {
-            "content": "<p>★★★★★ Valorado 4,9/5 por más de 100.000 clientas satisfechas.</p>"
+            "first_image": "shopify://shop_images/le-studio-tire-du-jeune-beau-sourire-espagnol-heureux-de-femme-128698802.webp",
+            "second_image": "shopify://shop_images/capture-20200218-192656.png",
+            "third_image": "shopify://shop_images/istockphoto-1126471588-612x612.jpg",
+            "fourth_image": "shopify://shop_images/paris-jeune-femme-mexicaine-donne-cours-espagnol.jpg",
+            "image_size": 34,
+            "image_size_mobile": 34,
+            "image_radius": 100,
+            "image_border_thickness": 0,
+            "stars_count": 5,
+            "stars_icon": "shopify://shop_images/Design_sans_titre_-_2025-10-08T212540.765-removebg-preview.png",
+            "stars_size": 14,
+            "stars_size_mobile": 14,
+            "review": "Más de 100.000 clientas satisfechas",
+            "stars_text": "Excelente 4.9",
+            "review_custom": true,
+            "review_font": "dm_sans_n6",
+            "review_size": 14,
+            "review_size_mobile": 12,
+            "review_height": 130,
+            "review_mt": 0,
+            "review_mt_mobile": 0,
+            "review_color": "#212326",
+            "count_color": "#212326",
+            "stars_color": "rgba(0,0,0,0)",
+            "stars_bg_color": "rgba(0,0,0,0)",
+            "stars_bg_half_color": "rgba(0,0,0,0)",
+            "image_border_color": "#FFFFFF"
           }
         },
-        "heading_3cPtwn": {
+        "heading_7enc6e": {
           "type": "heading",
           "settings": {
-            "text": "Di adiós a las estrías, al abdomen flácido y a los kilos de más — ¡y dale la bienvenida a la nueva versión segura de ti misma!",
-            "heading_tag": "h3"
+            "heading": "<h1>Hero <strong>#24</strong></h1>",
+            "heading_custom": false,
+            "heading_font": "josefin_sans_n4",
+            "heading_size": 54,
+            "heading_size_mobile": 52,
+            "heading_height": 130,
+            "heading_mt": 24,
+            "heading_mt_mobile": 20,
+            "heading_color": "#000000",
+            "heading_border_color": "#FFFFFF"
           }
         },
-        "button_6RKAP6": {
+        "text_WcN7zX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tell your brand's story through images</p>",
+            "text_custom": false,
+            "text_font": "josefin_sans_n4",
+            "text_size": 18,
+            "text_size_mobile": 18,
+            "text_height": 150,
+            "text_mt": 20,
+            "text_mt_mobile": 20,
+            "text_color": "#000000"
+          }
+        },
+        "button_bnrDLR": {
           "type": "button",
           "settings": {
-            "style": "fill",
-            "size": "base",
-            "text": "",
-            "url": "shopify://products/elanaya®-lumenolift",
-            "background": "",
-            "text_color": ""
+            "button": "Shop this",
+            "url": "",
+            "button_custom": false,
+            "button_font": "josefin_sans_n4",
+            "button_size": 16,
+            "button_size_mobile": 16,
+            "button_height": 100,
+            "button_padding_horizontal": 52,
+            "button_padding_horizontal_mobile": 40,
+            "button_padding_vertical": 20,
+            "button_padding_vertical_mobile": 20,
+            "button_radius": 8,
+            "button_border_thickness": 1,
+            "button_mt": 16,
+            "button_mt_mobile": 12,
+            "button_style": "outline",
+            "button_color": "#FFFFFF",
+            "button_hover_color": "#FFFFFF",
+            "button_bg_color": "#17c87c",
+            "button_bg_hover_color": "#17c87c",
+            "button_border_color": "#17c87c",
+            "button_border_hover_color": "#17c87c"
           }
         }
       },
       "block_order": [
-        "richtext_y7LFUL",
-        "heading_3cPtwn",
-        "button_6RKAP6"
+        "review_piqnXw",
+        "heading_7enc6e",
+        "text_WcN7zX",
+        "button_bnrDLR"
       ],
-      "name": "Image with text overlay",
+      "name": "SS - Hero #24",
       "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Design_sans_titre_-_2025-10-08T204516.143.png",
-        "mobile_image": "shopify://shop_images/Design_sans_titre_-_2025-10-08T204359.939.png",
-        "mobile_text_position": "place-self-start text-start",
-        "desktop_text_position": "sm:place-self-center-start sm:text-start",
-        "text_color": "#000000",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "layout_height": "fixed_height",
+        "layout_fixed_height": 500,
+        "layout_fixed_height_mobile": 680,
+        "bg_image": "shopify://shop_images/Design_sans_titre_-_2025-10-08T204516.143.png",
+        "bg_image_mobile": "shopify://shop_images/Design_sans_titre_-_2025-10-08T204359.939.png",
+        "bg_image_overlay": 0,
+        "content_max_width": 40,
+        "content_align": "left",
+        "content_align_mobile": "left",
+        "content_vertical_align": "center",
+        "content_vertical_align_mobile": "start",
+        "bg_image_overlay_color": "#000000",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": false
       }
     },
     "logo_list_m4jHTa": {
@@ -480,7 +562,7 @@
     }
   },
   "order": [
-    "image_with_text_overlay_dCEDBB",
+    "ss_hero_24_TrW9Y8",
     "logo_list_m4jHTa",
     "image_with_text_overlay_eFcYXr",
     "image_with_text_overlay_grAENU",
