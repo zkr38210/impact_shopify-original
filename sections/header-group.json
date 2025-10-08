@@ -32,7 +32,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#0fa5db",
+        "background": "#000000",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -42,7 +42,7 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Black_Minimalist_Business_Company_Logo.png",
+        "logo": "shopify://shop_images/Black_Minimalist_Business_Company_Logo__4_-removebg-preview.png",
         "logo_max_width": 100,
         "logo_mobile_max_width": 80,
         "menu": "main-menu",
@@ -57,7 +57,7 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify://shop_images/Black_Minimalist_Business_Company_Logo.png",
+        "transparent_logo": "shopify://shop_images/Black_Minimalist_Business_Company_Logo__4_-removebg-preview.png",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
