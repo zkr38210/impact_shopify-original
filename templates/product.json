@@ -177,8 +177,8 @@
           "type": "review",
           "settings": {
             "stars_count": 5,
-            "stars_size": 0,
-            "stars_size_mobile": 0,
+            "stars_size": 16,
+            "stars_size_mobile": 16,
             "review": "<p><strong>Cliente de Elanaya® da su testimonio</strong></p>",
             "review_custom": false,
             "review_font": "josefin_sans_n4",
