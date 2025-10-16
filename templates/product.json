@@ -319,10 +319,10 @@
             "review_mt_mobile": 10,
             "review_color": "#121212",
             "count_color": "#121212",
-            "stars_color": "#FFFFFF",
-            "stars_bg_color": "#00B67A",
-            "stars_bg_half_color": "#DDDDDD",
-            "image_border_color": "#FFFFFF"
+            "stars_color": "#ffffff",
+            "stars_bg_color": "#00b67a",
+            "stars_bg_half_color": "#dddddd",
+            "image_border_color": "#ffffff"
           }
         },
         "heading_hHFFYD": {
@@ -338,7 +338,7 @@
             "heading_mt_mobile": 16,
             "heading_max_width": 80,
             "heading_color": "#121212",
-            "heading_border_color": "#00B67D"
+            "heading_border_color": "#00b67d"
           }
         },
         "slide_xice8Q": {
@@ -346,6 +346,7 @@
           "settings": {
             "media_type": "image",
             "image": "shopify://shop_images/k8m2SOSq.jpg",
+            "video_url": "",
             "text": "<p><em>\"Después de unas semanas, noto una verdadera diferencia en mi cintura. Es fácil de usar y muy motivador.\"</em></p>",
             "stars_count": 5,
             "badge": "Verified",
@@ -357,6 +358,7 @@
           "settings": {
             "media_type": "image",
             "image": "shopify://shop_images/2_04daf5d6-f8e5-4e79-905a-72df56b91774.png",
+            "video_url": "",
             "text": "<p><em>\"Mi abdomen ya está más firme, mi piel increíblemente suave. El cinturón es ultracómodo, lo llevo incluso en momentos de relax sin esfuerzo.\"</em></p>",
             "stars_count": 5,
             "badge": "Verified",
@@ -368,6 +370,7 @@
           "settings": {
             "media_type": "image",
             "image": "shopify://shop_images/1_621ddf0b-a227-4748-ad71-dae155869738.png",
+            "video_url": "",
             "text": "<p>\"En solo 20 minutos al día, mi abdomen está menos hinchado. El calor es agradable y relajante.\"</p>",
             "stars_count": 5,
             "badge": "Verified",
@@ -377,8 +380,9 @@
         "slide_fTkxQR": {
           "type": "slide",
           "settings": {
-            "media_type": "video",
+            "media_type": "image",
             "image": "shopify://shop_images/avis2.jpg",
+            "video_url": "",
             "text": "<p><em>\"En pocas semanas, mi piel está más firme y mi cintura más definida.<br/>¡Fácil de usar y realmente eficaz!\"</em></p>",
             "stars_count": 5,
             "badge": "Verified",
@@ -458,24 +462,24 @@
         "arrow_show_mobile": false,
         "text_color": "#121212",
         "author_color": "#121212",
-        "stars_color": "#FFFFFF",
-        "stars_bg_color": "#00B67A",
-        "stars_bg_half_color": "#DDDDDD",
-        "slide_bg_color": "#FFFFFF",
+        "stars_color": "#ffffff",
+        "stars_bg_color": "#00b67a",
+        "stars_bg_half_color": "#dddddd",
+        "slide_bg_color": "#ffffff",
         "slide_border_color": "#121212",
         "badge_color": "#121212",
-        "badge_bg_color": "#F3F3F3",
-        "play_color": "#FFFFFF",
+        "badge_bg_color": "#f3f3f3",
+        "play_color": "#ffffff",
         "play_hover_color": "#121212",
         "play_bg_color": "#121212",
-        "play_bg_hover_color": "#FFFFFF",
-        "arrow_color": "#FFFFFF",
+        "play_bg_hover_color": "#ffffff",
+        "arrow_color": "#ffffff",
         "arrow_hover_color": "#121212",
         "arrow_bg_color": "#121212",
-        "arrow_bg_hover_color": "#FFFFFF",
+        "arrow_bg_hover_color": "#ffffff",
         "arrow_border_color": "#121212",
         "arrow_border_hover_color": "#121212",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(217, 245, 233, 1) 52%, rgba(255, 255, 255, 1) 99%, rgba(255, 255, 255, 1) 100%)",
         "border_color": "#121212",
         "margin_top": 0,
