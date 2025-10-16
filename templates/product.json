@@ -355,7 +355,8 @@
         "slide_BxYEgU": {
           "type": "slide",
           "settings": {
-            "media_type": "video",
+            "media_type": "image",
+            "image": "shopify://shop_images/2_04daf5d6-f8e5-4e79-905a-72df56b91774.png",
             "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
             "stars_count": 5,
             "badge": "Verified",
@@ -366,6 +367,7 @@
           "type": "slide",
           "settings": {
             "media_type": "video",
+            "image": "shopify://shop_images/1_621ddf0b-a227-4748-ad71-dae155869738.png",
             "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
             "stars_count": 5,
             "badge": "Verified",
