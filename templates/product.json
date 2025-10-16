@@ -379,10 +379,10 @@
           "settings": {
             "media_type": "video",
             "image": "shopify://shop_images/avis2.jpg",
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
+            "text": "<p>\"En pocas semanas, mi piel está más firme y mi cintura más definida.<br/>¡Fácil de usar y realmente eficaz!\"</p>",
             "stars_count": 5,
             "badge": "Verified",
-            "author": "Author's name"
+            "author": "María L."
           }
         }
       },
