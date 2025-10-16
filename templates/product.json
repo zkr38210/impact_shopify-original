@@ -378,6 +378,7 @@
           "type": "slide",
           "settings": {
             "media_type": "video",
+            "image": "shopify://shop_images/avis2.jpg",
             "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
             "stars_count": 5,
             "badge": "Verified",
