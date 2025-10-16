@@ -379,7 +379,7 @@
           "settings": {
             "media_type": "video",
             "image": "shopify://shop_images/avis2.jpg",
-            "text": "<p>\"En pocas semanas, mi piel está más firme y mi cintura más definida.<br/>¡Fácil de usar y realmente eficaz!\"</p>",
+            "text": "<p><em>\"En pocas semanas, mi piel está más firme y mi cintura más definida.<br/>¡Fácil de usar y realmente eficaz!\"</em></p>",
             "stars_count": 5,
             "badge": "Verified",
             "author": "María L."
