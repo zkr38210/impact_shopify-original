@@ -493,68 +493,6 @@
         "lazy": true
       }
     },
-    "multi_column_BEij4W": {
-      "type": "multi-column",
-      "blocks": {
-        "item_EfB4Wt": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/k8m2SOSq.jpg",
-            "column_size": "3",
-            "title": "Julia R. Cliente verificada ✓",
-            "heading_tag": "h4",
-            "content": "<p>⭐️⭐️⭐️⭐️⭐️</p><p><em>\"Después de unas semanas, noto una verdadera diferencia en mi cintura. Es fácil de usar y muy motivador.\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_btU3wM": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2_04daf5d6-f8e5-4e79-905a-72df56b91774.png",
-            "column_size": "3",
-            "title": "Sofía N. Cliente verificada ✓",
-            "heading_tag": "h4",
-            "content": "<p>⭐️⭐️⭐️⭐️⭐️</p><p><em>\"Mi abdomen ya está más firme, mi piel increíblemente suave. El cinturón es ultracómodo, lo llevo incluso en momentos de relax sin esfuerzo.\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_hFKdjR": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/3.png",
-            "column_size": "3",
-            "title": "Lucía T. Cliente verificada ✓",
-            "heading_tag": "h4",
-            "content": "<p><strong>⭐️⭐️⭐️⭐️⭐️</strong></p><p>\"En solo 20 minutos al día, mi abdomen está menos hinchado. El calor es agradable y relajante.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_EfB4Wt",
-        "item_btU3wM",
-        "item_hFKdjR"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": false,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "Ellas lo cuentan mejor que nosotros",
-        "content": "",
-        "background": "#f2f2f2",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "custom_liquid_k6akxU": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -828,7 +766,6 @@
     "logo_list_m4jHTa",
     "ss_hero_35_66JVEc",
     "ss_testimonial_28_34M3WU",
-    "multi_column_BEij4W",
     "custom_liquid_k6akxU",
     "main",
     "media_with_text_dqyQUh",
